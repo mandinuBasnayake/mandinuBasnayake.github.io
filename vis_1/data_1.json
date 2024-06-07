@@ -1,0 +1,6086 @@
+{
+  "2015": {
+    "Australia": [
+      {
+        "category": "Ancillary services",
+        "value": 5.605
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.775
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.449
+      },
+      {
+        "category": "Long-term care",
+        "value": 10.488
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.783
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 30.689
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.783
+      }
+    ],
+    "Austria": [
+      {
+        "category": "Ancillary services",
+        "value": 3.031
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.062
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 32.759
+      },
+      {
+        "category": "Long-term care",
+        "value": 14.855
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.188
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 24.992
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.188
+      }
+    ],
+    "Belgium": [
+      {
+        "category": "Ancillary services",
+        "value": 4.427
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.433
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.663
+      },
+      {
+        "category": "Long-term care",
+        "value": 22.969
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.677
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 17.837
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.677
+      }
+    ],
+    "Canada": [
+      {
+        "category": "Ancillary services",
+        "value": 3.446
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.671
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 17.253
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.343
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.4
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.176
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.4
+      }
+    ],
+    "Costa Rica": [
+      {
+        "category": "Ancillary services",
+        "value": 6.809
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 9.223
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 30.382
+      },
+      {
+        "category": "Long-term care",
+        "value": 1.532
+      },
+      {
+        "category": "Medical goods",
+        "value": 14.997
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 16.019
+      },
+      {
+        "category": "Preventive care",
+        "value": 14.997
+      }
+    ],
+    "Czechia": [
+      {
+        "category": "Ancillary services",
+        "value": 4.999
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.509
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.619
+      },
+      {
+        "category": "Long-term care",
+        "value": 11.962
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.759
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.103
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.759
+      }
+    ],
+    "Denmark": [
+      {
+        "category": "Ancillary services",
+        "value": 0.0
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.434
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.349
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.405
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.224
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 33.115
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.224
+      }
+    ],
+    "Estonia": [
+      {
+        "category": "Ancillary services",
+        "value": 10.387
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.696
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.259
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.187
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.063
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 29.421
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.063
+      }
+    ],
+    "Finland": [
+      {
+        "category": "Ancillary services",
+        "value": 3.195
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 0.889
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.442
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.192
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.884
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 32.418
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.884
+      }
+    ],
+    "France": [
+      {
+        "category": "Ancillary services",
+        "value": 4.471
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.926
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.804
+      },
+      {
+        "category": "Long-term care",
+        "value": 15.272
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.134
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 20.025
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.134
+      }
+    ],
+    "Germany": [
+      {
+        "category": "Ancillary services",
+        "value": 4.926
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.804
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.092
+      },
+      {
+        "category": "Long-term care",
+        "value": 16.406
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.294
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.968
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.294
+      }
+    ],
+    "Greece": [
+      {
+        "category": "Ancillary services",
+        "value": 5.138
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.529
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 42.197
+      },
+      {
+        "category": "Long-term care",
+        "value": 1.26
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.288
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 17.208
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.288
+      }
+    ],
+    "Hungary": [
+      {
+        "category": "Ancillary services",
+        "value": 5.308
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.122
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.512
+      },
+      {
+        "category": "Long-term care",
+        "value": 4.038
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.706
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 22.909
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.706
+      }
+    ],
+    "Iceland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.454
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.244
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.14
+      },
+      {
+        "category": "Long-term care",
+        "value": 20.781
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.39
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.01
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.39
+      }
+    ],
+    "Ireland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.837
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.98
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 24.916
+      },
+      {
+        "category": "Long-term care",
+        "value": 22.173
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.682
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 19.063
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.682
+      }
+    ],
+    "Israel": [
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.601
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.756
+      },
+      {
+        "category": "Long-term care",
+        "value": 7.906
+      },
+      {
+        "category": "Medical goods",
+        "value": 0.385
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 45.753
+      },
+      {
+        "category": "Preventive care",
+        "value": 0.385
+      }
+    ],
+    "Italy": [
+      {
+        "category": "Ancillary services",
+        "value": 8.195
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.402
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.594
+      },
+      {
+        "category": "Long-term care",
+        "value": 10.361
+      },
+      {
+        "category": "Medical goods",
+        "value": 4.166
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 23.069
+      },
+      {
+        "category": "Preventive care",
+        "value": 4.166
+      }
+    ],
+    "Japan": [
+      {
+        "category": "Ancillary services",
+        "value": 0.603
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.641
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.343
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.264
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.752
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.273
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.752
+      }
+    ],
+    "Korea": [
+      {
+        "category": "Ancillary services",
+        "value": 0.973
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.484
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.277
+      },
+      {
+        "category": "Long-term care",
+        "value": 11.366
+      },
+      {
+        "category": "Medical goods",
+        "value": 4.028
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 30.125
+      },
+      {
+        "category": "Preventive care",
+        "value": 4.028
+      }
+    ],
+    "Latvia": [
+      {
+        "category": "Ancillary services",
+        "value": 10.938
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.0
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 21.017
+      },
+      {
+        "category": "Long-term care",
+        "value": 5.239
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.027
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.491
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.027
+      }
+    ],
+    "Lithuania": [
+      {
+        "category": "Ancillary services",
+        "value": 5.204
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.04
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.894
+      },
+      {
+        "category": "Long-term care",
+        "value": 8.674
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.935
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 22.338
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.935
+      }
+    ],
+    "Luxembourg": [
+      {
+        "category": "Ancillary services",
+        "value": 6.241
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.302
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.242
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.089
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.136
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.859
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.136
+      }
+    ],
+    "Mexico": [
+      {
+        "category": "Ancillary services",
+        "value": 2.031
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.214
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.437
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.462
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 31.927
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.462
+      }
+    ],
+    "Netherlands": [
+      {
+        "category": "Ancillary services",
+        "value": 1.916
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.166
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 19.316
+      },
+      {
+        "category": "Long-term care",
+        "value": 26.217
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.505
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.974
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.505
+      }
+    ],
+    "Norway": [
+      {
+        "category": "Ancillary services",
+        "value": 7.609
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 0.58
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.024
+      },
+      {
+        "category": "Long-term care",
+        "value": 27.801
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.99
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.444
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.99
+      }
+    ],
+    "Poland": [
+      {
+        "category": "Ancillary services",
+        "value": 5.155
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.937
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 30.001
+      },
+      {
+        "category": "Long-term care",
+        "value": 5.568
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.381
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.866
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.381
+      }
+    ],
+    "Portugal": [
+      {
+        "category": "Ancillary services",
+        "value": 7.907
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.894
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 17.55
+      },
+      {
+        "category": "Long-term care",
+        "value": 4.563
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.838
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 37.466
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.838
+      }
+    ],
+    "Slovak Republic": [
+      {
+        "category": "Ancillary services",
+        "value": 6.857
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.203
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.323
+      },
+      {
+        "category": "Long-term care",
+        "value": 0.334
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.108
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 22.431
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.108
+      }
+    ],
+    "Slovenia": [
+      {
+        "category": "Ancillary services",
+        "value": 3.669
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.504
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.515
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.89
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.872
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.646
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.872
+      }
+    ],
+    "Spain": [
+      {
+        "category": "Ancillary services",
+        "value": 5.078
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.005
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.072
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.356
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.06
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 29.667
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.06
+      }
+    ],
+    "Sweden": [
+      {
+        "category": "Ancillary services",
+        "value": 3.722
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.684
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 20.584
+      },
+      {
+        "category": "Long-term care",
+        "value": 26.457
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.172
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.738
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.172
+      }
+    ],
+    "Switzerland": [
+      {
+        "category": "Ancillary services",
+        "value": 5.852
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.286
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 24.297
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.589
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.507
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.811
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.507
+      }
+    ],
+    "United Kingdom": [
+      {
+        "category": "Ancillary services",
+        "value": 1.791
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.094
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.643
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.309
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.304
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.662
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.304
+      }
+    ],
+    "United States": [
+      {
+        "category": "Ancillary services",
+        "value": 0.0
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 8.076
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 17.33
+      },
+      {
+        "category": "Long-term care",
+        "value": 8.204
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.043
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 43.949
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.043
+      }
+    ]
+  },
+  "2016": {
+    "Australia": [
+      {
+        "category": "Ancillary services",
+        "value": 5.551
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.11
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.732
+      },
+      {
+        "category": "Long-term care",
+        "value": 10.383
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.793
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 30.422
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.793
+      }
+    ],
+    "Austria": [
+      {
+        "category": "Ancillary services",
+        "value": 3.019
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.081
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 32.666
+      },
+      {
+        "category": "Long-term care",
+        "value": 14.956
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.14
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.267
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.14
+      }
+    ],
+    "Belgium": [
+      {
+        "category": "Ancillary services",
+        "value": 4.374
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.359
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.046
+      },
+      {
+        "category": "Long-term care",
+        "value": 24.319
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.482
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 17.627
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.482
+      }
+    ],
+    "Canada": [
+      {
+        "category": "Ancillary services",
+        "value": 3.446
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.9
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 16.664
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.248
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.336
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.449
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.336
+      }
+    ],
+    "Costa Rica": [
+      {
+        "category": "Ancillary services",
+        "value": 8.381
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 9.448
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.898
+      },
+      {
+        "category": "Long-term care",
+        "value": 1.47
+      },
+      {
+        "category": "Medical goods",
+        "value": 15.079
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 16.977
+      },
+      {
+        "category": "Preventive care",
+        "value": 15.079
+      }
+    ],
+    "Czechia": [
+      {
+        "category": "Ancillary services",
+        "value": 5.018
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.403
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.72
+      },
+      {
+        "category": "Long-term care",
+        "value": 12.052
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.834
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.174
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.834
+      }
+    ],
+    "Denmark": [
+      {
+        "category": "Ancillary services",
+        "value": 0.003
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.453
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.985
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.375
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.361
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 33.288
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.361
+      }
+    ],
+    "Estonia": [
+      {
+        "category": "Ancillary services",
+        "value": 10.657
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.355
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 22.324
+      },
+      {
+        "category": "Long-term care",
+        "value": 8.981
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.118
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 29.592
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.118
+      }
+    ],
+    "Finland": [
+      {
+        "category": "Ancillary services",
+        "value": 3.047
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 0.898
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 22.969
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.248
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.979
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 32.391
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.979
+      }
+    ],
+    "France": [
+      {
+        "category": "Ancillary services",
+        "value": 4.56
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.876
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.625
+      },
+      {
+        "category": "Long-term care",
+        "value": 15.327
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.981
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 20.341
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.981
+      }
+    ],
+    "Germany": [
+      {
+        "category": "Ancillary services",
+        "value": 4.939
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.778
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.001
+      },
+      {
+        "category": "Long-term care",
+        "value": 16.666
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.328
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.889
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.328
+      }
+    ],
+    "Greece": [
+      {
+        "category": "Ancillary services",
+        "value": 3.646
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.578
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 41.156
+      },
+      {
+        "category": "Long-term care",
+        "value": 1.134
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.267
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 17.546
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.267
+      }
+    ],
+    "Hungary": [
+      {
+        "category": "Ancillary services",
+        "value": 6.062
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.01
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.371
+      },
+      {
+        "category": "Long-term care",
+        "value": 3.673
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.164
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 22.518
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.164
+      }
+    ],
+    "Iceland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.464
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.201
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.531
+      },
+      {
+        "category": "Long-term care",
+        "value": 20.464
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.438
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.006
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.438
+      }
+    ],
+    "Ireland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.858
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.722
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 24.96
+      },
+      {
+        "category": "Long-term care",
+        "value": 22.434
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.61
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 19.506
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.61
+      }
+    ],
+    "Israel": [
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.958
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.539
+      },
+      {
+        "category": "Long-term care",
+        "value": 7.886
+      },
+      {
+        "category": "Medical goods",
+        "value": 0.388
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 45.968
+      },
+      {
+        "category": "Preventive care",
+        "value": 0.388
+      }
+    ],
+    "Italy": [
+      {
+        "category": "Ancillary services",
+        "value": 8.209
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.592
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.632
+      },
+      {
+        "category": "Long-term care",
+        "value": 10.461
+      },
+      {
+        "category": "Medical goods",
+        "value": 4.221
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 22.949
+      },
+      {
+        "category": "Preventive care",
+        "value": 4.221
+      }
+    ],
+    "Japan": [
+      {
+        "category": "Ancillary services",
+        "value": 0.589
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.665
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.876
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.592
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.855
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.372
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.855
+      }
+    ],
+    "Korea": [
+      {
+        "category": "Ancillary services",
+        "value": 1.05
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.361
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.885
+      },
+      {
+        "category": "Long-term care",
+        "value": 11.752
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.739
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 30.613
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.739
+      }
+    ],
+    "Latvia": [
+      {
+        "category": "Ancillary services",
+        "value": 9.485
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.949
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 19.227
+      },
+      {
+        "category": "Long-term care",
+        "value": 4.729
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.401
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.753
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.401
+      }
+    ],
+    "Lithuania": [
+      {
+        "category": "Ancillary services",
+        "value": 5.039
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.584
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 29.555
+      },
+      {
+        "category": "Long-term care",
+        "value": 8.359
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.041
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.918
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.041
+      }
+    ],
+    "Luxembourg": [
+      {
+        "category": "Ancillary services",
+        "value": 6.202
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.298
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 24.916
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.077
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.174
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.189
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.174
+      }
+    ],
+    "Mexico": [
+      {
+        "category": "Ancillary services",
+        "value": 2.105
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.676
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.102
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.834
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 31.943
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.834
+      }
+    ],
+    "Netherlands": [
+      {
+        "category": "Ancillary services",
+        "value": 1.871
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.984
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 19.223
+      },
+      {
+        "category": "Long-term care",
+        "value": 25.899
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.512
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.697
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.512
+      }
+    ],
+    "Norway": [
+      {
+        "category": "Ancillary services",
+        "value": 7.536
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 0.687
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.994
+      },
+      {
+        "category": "Long-term care",
+        "value": 28.195
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.911
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.298
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.911
+      }
+    ],
+    "Poland": [
+      {
+        "category": "Ancillary services",
+        "value": 3.746
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.904
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 33.037
+      },
+      {
+        "category": "Long-term care",
+        "value": 5.866
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.817
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.98
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.817
+      }
+    ],
+    "Portugal": [
+      {
+        "category": "Ancillary services",
+        "value": 7.609
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.915
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 17.412
+      },
+      {
+        "category": "Long-term care",
+        "value": 4.734
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.81
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 38.228
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.81
+      }
+    ],
+    "Slovak Republic": [
+      {
+        "category": "Ancillary services",
+        "value": 8.505
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.433
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.457
+      },
+      {
+        "category": "Long-term care",
+        "value": 0.352
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.178
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 23.95
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.178
+      }
+    ],
+    "Slovenia": [
+      {
+        "category": "Ancillary services",
+        "value": 3.579
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.868
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.242
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.774
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.999
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.6
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.999
+      }
+    ],
+    "Spain": [
+      {
+        "category": "Ancillary services",
+        "value": 5.12
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.018
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.01
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.416
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.142
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 29.344
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.142
+      }
+    ],
+    "Sweden": [
+      {
+        "category": "Ancillary services",
+        "value": 3.756
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.524
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 20.112
+      },
+      {
+        "category": "Long-term care",
+        "value": 26.591
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.164
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.962
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.164
+      }
+    ],
+    "Switzerland": [
+      {
+        "category": "Ancillary services",
+        "value": 6.031
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.407
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 24.039
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.307
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.45
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.855
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.45
+      }
+    ],
+    "United Kingdom": [
+      {
+        "category": "Ancillary services",
+        "value": 1.805
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.578
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.6
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.545
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.263
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.986
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.263
+      }
+    ],
+    "United States": [
+      {
+        "category": "Ancillary services",
+        "value": 0.0
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 8.139
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 16.894
+      },
+      {
+        "category": "Long-term care",
+        "value": 8.139
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.055
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 44.772
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.055
+      }
+    ]
+  },
+  "2017": {
+    "Australia": [
+      {
+        "category": "Ancillary services",
+        "value": 5.718
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.098
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.17
+      },
+      {
+        "category": "Long-term care",
+        "value": 10.348
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.796
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 30.391
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.796
+      }
+    ],
+    "Austria": [
+      {
+        "category": "Ancillary services",
+        "value": 2.974
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.979
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 32.469
+      },
+      {
+        "category": "Long-term care",
+        "value": 14.862
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.142
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.431
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.142
+      }
+    ],
+    "Belgium": [
+      {
+        "category": "Ancillary services",
+        "value": 4.243
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.285
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.798
+      },
+      {
+        "category": "Long-term care",
+        "value": 24.618
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.442
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 17.653
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.442
+      }
+    ],
+    "Canada": [
+      {
+        "category": "Ancillary services",
+        "value": 3.48
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.992
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 16.457
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.822
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.269
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.223
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.269
+      }
+    ],
+    "Costa Rica": [
+      {
+        "category": "Ancillary services",
+        "value": 1.965
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 9.448
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 38.859
+      },
+      {
+        "category": "Long-term care",
+        "value": 0.448
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.141
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 20.531
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.141
+      }
+    ],
+    "Czechia": [
+      {
+        "category": "Ancillary services",
+        "value": 5.107
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.289
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.883
+      },
+      {
+        "category": "Long-term care",
+        "value": 12.574
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.031
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.894
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.031
+      }
+    ],
+    "Denmark": [
+      {
+        "category": "Ancillary services",
+        "value": 0.01
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.483
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.518
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.377
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.352
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 34.723
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.352
+      }
+    ],
+    "Estonia": [
+      {
+        "category": "Ancillary services",
+        "value": 11.024
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.168
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 22.234
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.191
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.291
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 30.04
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.291
+      }
+    ],
+    "Finland": [
+      {
+        "category": "Ancillary services",
+        "value": 3.086
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 0.884
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 22.722
+      },
+      {
+        "category": "Long-term care",
+        "value": 17.727
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.963
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 33.22
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.963
+      }
+    ],
+    "France": [
+      {
+        "category": "Ancillary services",
+        "value": 4.632
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.817
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.196
+      },
+      {
+        "category": "Long-term care",
+        "value": 15.491
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.024
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 20.491
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.024
+      }
+    ],
+    "Germany": [
+      {
+        "category": "Ancillary services",
+        "value": 4.907
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.648
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.308
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.444
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.325
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.507
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.325
+      }
+    ],
+    "Greece": [
+      {
+        "category": "Ancillary services",
+        "value": 4.16
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.563
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 39.861
+      },
+      {
+        "category": "Long-term care",
+        "value": 1.607
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.267
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 18.374
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.267
+      }
+    ],
+    "Hungary": [
+      {
+        "category": "Ancillary services",
+        "value": 6.091
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.168
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.084
+      },
+      {
+        "category": "Long-term care",
+        "value": 3.973
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.028
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 22.346
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.028
+      }
+    ],
+    "Iceland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.464
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.618
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.302
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.636
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.439
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.232
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.439
+      }
+    ],
+    "Ireland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.821
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.673
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.255
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.614
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.653
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 19.597
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.653
+      }
+    ],
+    "Israel": [
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.704
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.456
+      },
+      {
+        "category": "Long-term care",
+        "value": 7.892
+      },
+      {
+        "category": "Medical goods",
+        "value": 0.37
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 46.565
+      },
+      {
+        "category": "Preventive care",
+        "value": 0.37
+      }
+    ],
+    "Italy": [
+      {
+        "category": "Ancillary services",
+        "value": 8.183
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.66
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.291
+      },
+      {
+        "category": "Long-term care",
+        "value": 10.643
+      },
+      {
+        "category": "Medical goods",
+        "value": 4.405
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 23.206
+      },
+      {
+        "category": "Preventive care",
+        "value": 4.405
+      }
+    ],
+    "Japan": [
+      {
+        "category": "Ancillary services",
+        "value": 0.579
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.725
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.092
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.379
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.861
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.531
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.861
+      }
+    ],
+    "Korea": [
+      {
+        "category": "Ancillary services",
+        "value": 1.118
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.36
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.416
+      },
+      {
+        "category": "Long-term care",
+        "value": 12.552
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.989
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 30.619
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.989
+      }
+    ],
+    "Latvia": [
+      {
+        "category": "Ancillary services",
+        "value": 9.603
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.965
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 19.541
+      },
+      {
+        "category": "Long-term care",
+        "value": 4.956
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.404
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.491
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.404
+      }
+    ],
+    "Lithuania": [
+      {
+        "category": "Ancillary services",
+        "value": 5.577
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.195
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.072
+      },
+      {
+        "category": "Long-term care",
+        "value": 8.418
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.164
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 23.204
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.164
+      }
+    ],
+    "Luxembourg": [
+      {
+        "category": "Ancillary services",
+        "value": 6.249
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.47
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 24.495
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.159
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.207
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.305
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.207
+      }
+    ],
+    "Mexico": [
+      {
+        "category": "Ancillary services",
+        "value": 2.198
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.761
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 29.55
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.045
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 31.06
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.045
+      }
+    ],
+    "Netherlands": [
+      {
+        "category": "Ancillary services",
+        "value": 1.848
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.879
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 19.24
+      },
+      {
+        "category": "Long-term care",
+        "value": 26.66
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.34
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.621
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.34
+      }
+    ],
+    "Norway": [
+      {
+        "category": "Ancillary services",
+        "value": 7.517
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.481
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.727
+      },
+      {
+        "category": "Long-term care",
+        "value": 28.512
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.449
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.689
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.449
+      }
+    ],
+    "Poland": [
+      {
+        "category": "Ancillary services",
+        "value": 3.71
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.782
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 33.798
+      },
+      {
+        "category": "Long-term care",
+        "value": 6.036
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.38
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.212
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.38
+      }
+    ],
+    "Portugal": [
+      {
+        "category": "Ancillary services",
+        "value": 7.526
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.922
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 17.237
+      },
+      {
+        "category": "Long-term care",
+        "value": 4.762
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.805
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 38.721
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.805
+      }
+    ],
+    "Slovak Republic": [
+      {
+        "category": "Ancillary services",
+        "value": 8.149
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.548
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.141
+      },
+      {
+        "category": "Long-term care",
+        "value": 0.364
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.016
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 23.796
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.016
+      }
+    ],
+    "Slovenia": [
+      {
+        "category": "Ancillary services",
+        "value": 3.374
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.201
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.396
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.752
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.016
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.409
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.016
+      }
+    ],
+    "Spain": [
+      {
+        "category": "Ancillary services",
+        "value": 5.013
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.905
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.158
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.537
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.103
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 29.734
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.103
+      }
+    ],
+    "Sweden": [
+      {
+        "category": "Ancillary services",
+        "value": 4.004
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.658
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 20.167
+      },
+      {
+        "category": "Long-term care",
+        "value": 26.746
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.28
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.649
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.28
+      }
+    ],
+    "Switzerland": [
+      {
+        "category": "Ancillary services",
+        "value": 6.216
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.341
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.582
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.662
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.351
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.519
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.351
+      }
+    ],
+    "United Kingdom": [
+      {
+        "category": "Ancillary services",
+        "value": 1.842
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.732
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.735
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.732
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.137
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.959
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.137
+      }
+    ],
+    "United States": [
+      {
+        "category": "Ancillary services",
+        "value": 0.0
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 8.163
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 16.561
+      },
+      {
+        "category": "Long-term care",
+        "value": 8.045
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.117
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 45.349
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.117
+      }
+    ]
+  },
+  "2018": {
+    "Australia": [
+      {
+        "category": "Ancillary services",
+        "value": 5.644
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.097
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.27
+      },
+      {
+        "category": "Long-term care",
+        "value": 10.815
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.796
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 30.379
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.796
+      }
+    ],
+    "Austria": [
+      {
+        "category": "Ancillary services",
+        "value": 3.012
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.982
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 32.503
+      },
+      {
+        "category": "Long-term care",
+        "value": 14.75
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.103
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.992
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.103
+      }
+    ],
+    "Belgium": [
+      {
+        "category": "Ancillary services",
+        "value": 4.12
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.324
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.777
+      },
+      {
+        "category": "Long-term care",
+        "value": 24.97
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.532
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 18.082
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.532
+      }
+    ],
+    "Canada": [
+      {
+        "category": "Ancillary services",
+        "value": 3.392
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.298
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 16.498
+      },
+      {
+        "category": "Long-term care",
+        "value": 20.067
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.301
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.398
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.301
+      }
+    ],
+    "Costa Rica": [
+      {
+        "category": "Ancillary services",
+        "value": 1.373
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 8.236
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 38.022
+      },
+      {
+        "category": "Long-term care",
+        "value": 0.58
+      },
+      {
+        "category": "Medical goods",
+        "value": 0.903
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 20.313
+      },
+      {
+        "category": "Preventive care",
+        "value": 0.903
+      }
+    ],
+    "Czechia": [
+      {
+        "category": "Ancillary services",
+        "value": 5.067
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.273
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.331
+      },
+      {
+        "category": "Long-term care",
+        "value": 13.232
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.909
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.867
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.909
+      }
+    ],
+    "Denmark": [
+      {
+        "category": "Ancillary services",
+        "value": 0.008
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.549
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.276
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.571
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.271
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 34.714
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.271
+      }
+    ],
+    "Estonia": [
+      {
+        "category": "Ancillary services",
+        "value": 11.11
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.263
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 22.188
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.162
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.533
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 29.823
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.533
+      }
+    ],
+    "Finland": [
+      {
+        "category": "Ancillary services",
+        "value": 3.081
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 0.893
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 22.489
+      },
+      {
+        "category": "Long-term care",
+        "value": 17.209
+      },
+      {
+        "category": "Medical goods",
+        "value": 4.049
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 33.864
+      },
+      {
+        "category": "Preventive care",
+        "value": 4.049
+      }
+    ],
+    "France": [
+      {
+        "category": "Ancillary services",
+        "value": 4.618
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.774
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 22.91
+      },
+      {
+        "category": "Long-term care",
+        "value": 15.624
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.05
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 20.789
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.05
+      }
+    ],
+    "Germany": [
+      {
+        "category": "Ancillary services",
+        "value": 4.936
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.664
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.019
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.899
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.341
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.478
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.341
+      }
+    ],
+    "Greece": [
+      {
+        "category": "Ancillary services",
+        "value": 2.936
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.611
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 41.645
+      },
+      {
+        "category": "Long-term care",
+        "value": 2.132
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.239
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 18.408
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.239
+      }
+    ],
+    "Hungary": [
+      {
+        "category": "Ancillary services",
+        "value": 6.557
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.248
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.346
+      },
+      {
+        "category": "Long-term care",
+        "value": 3.973
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.07
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 22.273
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.07
+      }
+    ],
+    "Iceland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.423
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.61
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.078
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.492
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.46
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.495
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.46
+      }
+    ],
+    "Ireland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.759
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.525
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.675
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.851
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.602
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 19.699
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.602
+      }
+    ],
+    "Israel": [
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.217
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.809
+      },
+      {
+        "category": "Long-term care",
+        "value": 7.23
+      },
+      {
+        "category": "Medical goods",
+        "value": 0.363
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 46.816
+      },
+      {
+        "category": "Preventive care",
+        "value": 0.363
+      }
+    ],
+    "Italy": [
+      {
+        "category": "Ancillary services",
+        "value": 8.13
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.625
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.986
+      },
+      {
+        "category": "Long-term care",
+        "value": 10.598
+      },
+      {
+        "category": "Medical goods",
+        "value": 4.674
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 23.403
+      },
+      {
+        "category": "Preventive care",
+        "value": 4.674
+      }
+    ],
+    "Japan": [
+      {
+        "category": "Ancillary services",
+        "value": 0.593
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.735
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.099
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.673
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.001
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.432
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.001
+      }
+    ],
+    "Korea": [
+      {
+        "category": "Ancillary services",
+        "value": 1.383
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.351
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.415
+      },
+      {
+        "category": "Long-term care",
+        "value": 12.941
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.559
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 30.858
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.559
+      }
+    ],
+    "Latvia": [
+      {
+        "category": "Ancillary services",
+        "value": 9.959
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.122
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 21.671
+      },
+      {
+        "category": "Long-term care",
+        "value": 4.707
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.578
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 22.829
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.578
+      }
+    ],
+    "Lithuania": [
+      {
+        "category": "Ancillary services",
+        "value": 5.846
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.278
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.65
+      },
+      {
+        "category": "Long-term care",
+        "value": 8.049
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.283
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.08
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.283
+      }
+    ],
+    "Luxembourg": [
+      {
+        "category": "Ancillary services",
+        "value": 5.8
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.356
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.146
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.717
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.176
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.811
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.176
+      }
+    ],
+    "Mexico": [
+      {
+        "category": "Ancillary services",
+        "value": 2.258
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.839
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 29.445
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.957
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 31.159
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.957
+      }
+    ],
+    "Netherlands": [
+      {
+        "category": "Ancillary services",
+        "value": 1.903
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.775
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 18.858
+      },
+      {
+        "category": "Long-term care",
+        "value": 27.065
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.242
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.827
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.242
+      }
+    ],
+    "Norway": [
+      {
+        "category": "Ancillary services",
+        "value": 7.524
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.457
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.243
+      },
+      {
+        "category": "Long-term care",
+        "value": 29.32
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.501
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.882
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.501
+      }
+    ],
+    "Poland": [
+      {
+        "category": "Ancillary services",
+        "value": 3.709
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.822
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 33.985
+      },
+      {
+        "category": "Long-term care",
+        "value": 6.183
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.283
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.48
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.283
+      }
+    ],
+    "Portugal": [
+      {
+        "category": "Ancillary services",
+        "value": 7.393
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.047
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 17.49
+      },
+      {
+        "category": "Long-term care",
+        "value": 4.795
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.779
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 38.774
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.779
+      }
+    ],
+    "Slovak Republic": [
+      {
+        "category": "Ancillary services",
+        "value": 7.883
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.7
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 29.256
+      },
+      {
+        "category": "Long-term care",
+        "value": 0.412
+      },
+      {
+        "category": "Medical goods",
+        "value": 0.768
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 24.348
+      },
+      {
+        "category": "Preventive care",
+        "value": 0.768
+      }
+    ],
+    "Slovenia": [
+      {
+        "category": "Ancillary services",
+        "value": 3.241
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.148
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.671
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.507
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.132
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.898
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.132
+      }
+    ],
+    "Spain": [
+      {
+        "category": "Ancillary services",
+        "value": 4.944
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.961
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.093
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.519
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.115
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 29.958
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.115
+      }
+    ],
+    "Sweden": [
+      {
+        "category": "Ancillary services",
+        "value": 4.161
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.801
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 20.142
+      },
+      {
+        "category": "Long-term care",
+        "value": 26.397
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.396
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.466
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.396
+      }
+    ],
+    "Switzerland": [
+      {
+        "category": "Ancillary services",
+        "value": 6.103
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.217
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.303
+      },
+      {
+        "category": "Long-term care",
+        "value": 22.026
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.511
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.391
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.511
+      }
+    ],
+    "United Kingdom": [
+      {
+        "category": "Ancillary services",
+        "value": 1.857
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.868
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.26
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.61
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.255
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.49
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.255
+      }
+    ],
+    "United States": [
+      {
+        "category": "Ancillary services",
+        "value": 0.0
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 8.652
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 16.247
+      },
+      {
+        "category": "Long-term care",
+        "value": 8.001
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.107
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 45.484
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.107
+      }
+    ]
+  },
+  "2019": {
+    "Australia": [
+      {
+        "category": "Ancillary services",
+        "value": 5.613
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.983
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.831
+      },
+      {
+        "category": "Long-term care",
+        "value": 11.125
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.99
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 30.353
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.99
+      }
+    ],
+    "Austria": [
+      {
+        "category": "Ancillary services",
+        "value": 2.987
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.044
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 32.332
+      },
+      {
+        "category": "Long-term care",
+        "value": 14.574
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.088
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.631
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.088
+      }
+    ],
+    "Belgium": [
+      {
+        "category": "Ancillary services",
+        "value": 4.144
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.384
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.06
+      },
+      {
+        "category": "Long-term care",
+        "value": 23.154
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.579
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 17.025
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.579
+      }
+    ],
+    "Canada": [
+      {
+        "category": "Ancillary services",
+        "value": 3.518
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.302
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 16.166
+      },
+      {
+        "category": "Long-term care",
+        "value": 20.192
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.703
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.331
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.703
+      }
+    ],
+    "Costa Rica": [
+      {
+        "category": "Ancillary services",
+        "value": 1.38
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 8.255
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 38.742
+      },
+      {
+        "category": "Long-term care",
+        "value": 0.615
+      },
+      {
+        "category": "Medical goods",
+        "value": 0.496
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 37.083
+      },
+      {
+        "category": "Preventive care",
+        "value": 0.496
+      }
+    ],
+    "Czechia": [
+      {
+        "category": "Ancillary services",
+        "value": 5.056
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.271
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 28.342
+      },
+      {
+        "category": "Long-term care",
+        "value": 13.393
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.854
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.279
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.854
+      }
+    ],
+    "Denmark": [
+      {
+        "category": "Ancillary services",
+        "value": 0.004
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.72
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.191
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.33
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.229
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 34.725
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.229
+      }
+    ],
+    "Estonia": [
+      {
+        "category": "Ancillary services",
+        "value": 11.57
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.518
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 21.807
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.396
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.6
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 29.969
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.6
+      }
+    ],
+    "Finland": [
+      {
+        "category": "Ancillary services",
+        "value": 3.0
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 0.847
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 22.23
+      },
+      {
+        "category": "Long-term care",
+        "value": 17.372
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.995
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 33.934
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.995
+      }
+    ],
+    "France": [
+      {
+        "category": "Ancillary services",
+        "value": 4.573
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.61
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 22.527
+      },
+      {
+        "category": "Long-term care",
+        "value": 15.81
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.038
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.057
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.038
+      }
+    ],
+    "Germany": [
+      {
+        "category": "Ancillary services",
+        "value": 4.912
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.388
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.75
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.234
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.416
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.553
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.416
+      }
+    ],
+    "Greece": [
+      {
+        "category": "Ancillary services",
+        "value": 4.152
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.536
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 41.246
+      },
+      {
+        "category": "Long-term care",
+        "value": 1.612
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.295
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 17.868
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.295
+      }
+    ],
+    "Hungary": [
+      {
+        "category": "Ancillary services",
+        "value": 6.243
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.34
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.411
+      },
+      {
+        "category": "Long-term care",
+        "value": 3.962
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.19
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 22.593
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.19
+      }
+    ],
+    "Iceland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.457
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.399
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.35
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.622
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.199
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 29.462
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.199
+      }
+    ],
+    "Ireland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.847
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.495
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.133
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.781
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.655
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 20.261
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.655
+      }
+    ],
+    "Israel": [
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.714
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.166
+      },
+      {
+        "category": "Long-term care",
+        "value": 7.145
+      },
+      {
+        "category": "Medical goods",
+        "value": 0.321
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 47.016
+      },
+      {
+        "category": "Preventive care",
+        "value": 0.321
+      }
+    ],
+    "Italy": [
+      {
+        "category": "Ancillary services",
+        "value": 8.248
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.626
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.543
+      },
+      {
+        "category": "Long-term care",
+        "value": 10.353
+      },
+      {
+        "category": "Medical goods",
+        "value": 4.717
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 23.737
+      },
+      {
+        "category": "Preventive care",
+        "value": 4.717
+      }
+    ],
+    "Japan": [
+      {
+        "category": "Ancillary services",
+        "value": 0.583
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.778
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.29
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.467
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.952
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 23.49
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.952
+      }
+    ],
+    "Korea": [
+      {
+        "category": "Ancillary services",
+        "value": 1.244
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.465
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.992
+      },
+      {
+        "category": "Long-term care",
+        "value": 13.139
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.598
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 30.667
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.598
+      }
+    ],
+    "Latvia": [
+      {
+        "category": "Ancillary services",
+        "value": 10.429
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.274
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 21.049
+      },
+      {
+        "category": "Long-term care",
+        "value": 4.984
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.555
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.017
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.555
+      }
+    ],
+    "Lithuania": [
+      {
+        "category": "Ancillary services",
+        "value": 5.507
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.221
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.763
+      },
+      {
+        "category": "Long-term care",
+        "value": 7.521
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.72
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.924
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.72
+      }
+    ],
+    "Luxembourg": [
+      {
+        "category": "Ancillary services",
+        "value": 5.76
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.425
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 24.748
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.927
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.451
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.959
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.451
+      }
+    ],
+    "Mexico": [
+      {
+        "category": "Ancillary services",
+        "value": 2.288
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.558
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 29.431
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.753
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 32.328
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.753
+      }
+    ],
+    "Netherlands": [
+      {
+        "category": "Ancillary services",
+        "value": 1.862
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.707
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 18.605
+      },
+      {
+        "category": "Long-term care",
+        "value": 27.875
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.3
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.624
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.3
+      }
+    ],
+    "Norway": [
+      {
+        "category": "Ancillary services",
+        "value": 7.462
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.383
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.477
+      },
+      {
+        "category": "Long-term care",
+        "value": 29.677
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.629
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.521
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.629
+      }
+    ],
+    "Poland": [
+      {
+        "category": "Ancillary services",
+        "value": 3.744
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.677
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 34.535
+      },
+      {
+        "category": "Long-term care",
+        "value": 6.721
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.087
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.361
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.087
+      }
+    ],
+    "Portugal": [
+      {
+        "category": "Ancillary services",
+        "value": 7.474
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.849
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 17.315
+      },
+      {
+        "category": "Long-term care",
+        "value": 4.775
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.773
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 38.742
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.773
+      }
+    ],
+    "Slovak Republic": [
+      {
+        "category": "Ancillary services",
+        "value": 7.898
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.701
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 30.121
+      },
+      {
+        "category": "Long-term care",
+        "value": 0.388
+      },
+      {
+        "category": "Medical goods",
+        "value": 0.811
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 24.89
+      },
+      {
+        "category": "Preventive care",
+        "value": 0.811
+      }
+    ],
+    "Slovenia": [
+      {
+        "category": "Ancillary services",
+        "value": 3.347
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.807
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.836
+      },
+      {
+        "category": "Long-term care",
+        "value": 10.208
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.184
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 29.005
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.184
+      }
+    ],
+    "Spain": [
+      {
+        "category": "Ancillary services",
+        "value": 4.98
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.919
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.565
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.415
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.144
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 29.99
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.144
+      }
+    ],
+    "Sweden": [
+      {
+        "category": "Ancillary services",
+        "value": 4.349
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.728
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 20.095
+      },
+      {
+        "category": "Long-term care",
+        "value": 26.356
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.176
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.925
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.176
+      }
+    ],
+    "Switzerland": [
+      {
+        "category": "Ancillary services",
+        "value": 5.895
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.215
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 22.617
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.808
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.378
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.315
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.378
+      }
+    ],
+    "United Kingdom": [
+      {
+        "category": "Ancillary services",
+        "value": 1.882
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.885
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 22.559
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.259
+      },
+      {
+        "category": "Medical goods",
+        "value": 4.955
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.162
+      },
+      {
+        "category": "Preventive care",
+        "value": 4.955
+      }
+    ],
+    "United States": [
+      {
+        "category": "Ancillary services",
+        "value": 0.0
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 7.946
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 0.0
+      },
+      {
+        "category": "Long-term care",
+        "value": 8.039
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.202
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.905
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.202
+      }
+    ]
+  },
+  "2020": {
+    "Australia": [
+      {
+        "category": "Ancillary services",
+        "value": 5.828
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.597
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.059
+      },
+      {
+        "category": "Long-term care",
+        "value": 11.11
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.237
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 30.033
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.237
+      }
+    ],
+    "Austria": [
+      {
+        "category": "Ancillary services",
+        "value": 2.954
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.799
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 32.3
+      },
+      {
+        "category": "Long-term care",
+        "value": 14.694
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.438
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.601
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.438
+      }
+    ],
+    "Belgium": [
+      {
+        "category": "Ancillary services",
+        "value": 4.388
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.56
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 30.27
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.839
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.11
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 15.348
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.11
+      }
+    ],
+    "Canada": [
+      {
+        "category": "Ancillary services",
+        "value": 3.12
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.953
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 14.49
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.258
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.724
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 22.99
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.724
+      }
+    ],
+    "Costa Rica": [
+      {
+        "category": "Ancillary services",
+        "value": 1.313
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 7.632
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 38.414
+      },
+      {
+        "category": "Long-term care",
+        "value": 0.591
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.496
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 37.447
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.496
+      }
+    ],
+    "Czechia": [
+      {
+        "category": "Ancillary services",
+        "value": 5.307
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.052
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 30.593
+      },
+      {
+        "category": "Long-term care",
+        "value": 12.772
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.723
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.362
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.723
+      }
+    ],
+    "Denmark": [
+      {
+        "category": "Ancillary services",
+        "value": 0.002
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.803
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.591
+      },
+      {
+        "category": "Long-term care",
+        "value": 20.833
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.242
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 33.947
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.242
+      }
+    ],
+    "Estonia": [
+      {
+        "category": "Ancillary services",
+        "value": 11.545
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.539
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.634
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.463
+      },
+      {
+        "category": "Medical goods",
+        "value": 4.797
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.567
+      },
+      {
+        "category": "Preventive care",
+        "value": 4.797
+      }
+    ],
+    "Finland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.945
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 0.809
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 21.012
+      },
+      {
+        "category": "Long-term care",
+        "value": 17.275
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.608
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 34.458
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.608
+      }
+    ],
+    "France": [
+      {
+        "category": "Ancillary services",
+        "value": 4.244
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 5.405
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 24.241
+      },
+      {
+        "category": "Long-term care",
+        "value": 16.537
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.06
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 19.357
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.06
+      }
+    ],
+    "Germany": [
+      {
+        "category": "Ancillary services",
+        "value": 4.982
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.408
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.66
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.713
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.303
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 20.708
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.303
+      }
+    ],
+    "Greece": [
+      {
+        "category": "Ancillary services",
+        "value": 3.588
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.616
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 41.19
+      },
+      {
+        "category": "Long-term care",
+        "value": 1.492
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.796
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 16.427
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.796
+      }
+    ],
+    "Hungary": [
+      {
+        "category": "Ancillary services",
+        "value": 6.094
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.245
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 29.523
+      },
+      {
+        "category": "Long-term care",
+        "value": 4.052
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.698
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 21.792
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.698
+      }
+    ],
+    "Iceland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.285
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.205
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.81
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.993
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.67
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.246
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.67
+      }
+    ],
+    "Ireland": [
+      {
+        "category": "Ancillary services",
+        "value": 2.68
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.888
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.527
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.82
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.241
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 20.038
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.241
+      }
+    ],
+    "Israel": [
+      {
+        "category": "Governance and health system and financing",
+        "value": 6.03
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.942
+      },
+      {
+        "category": "Long-term care",
+        "value": 6.658
+      },
+      {
+        "category": "Medical goods",
+        "value": 0.266
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 42.921
+      },
+      {
+        "category": "Preventive care",
+        "value": 0.266
+      }
+    ],
+    "Italy": [
+      {
+        "category": "Ancillary services",
+        "value": 8.451
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.678
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 27.626
+      },
+      {
+        "category": "Long-term care",
+        "value": 10.094
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.44
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 23.007
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.44
+      }
+    ],
+    "Japan": [
+      {
+        "category": "Ancillary services",
+        "value": 0.611
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.51
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.728
+      },
+      {
+        "category": "Long-term care",
+        "value": 19.826
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.243
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.631
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.243
+      }
+    ],
+    "Korea": [
+      {
+        "category": "Ancillary services",
+        "value": 1.251
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.939
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.547
+      },
+      {
+        "category": "Long-term care",
+        "value": 13.734
+      },
+      {
+        "category": "Medical goods",
+        "value": 4.388
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 29.284
+      },
+      {
+        "category": "Preventive care",
+        "value": 4.388
+      }
+    ],
+    "Latvia": [
+      {
+        "category": "Ancillary services",
+        "value": 12.014
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.017
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 22.052
+      },
+      {
+        "category": "Long-term care",
+        "value": 5.141
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.107
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 24.961
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.107
+      }
+    ],
+    "Lithuania": [
+      {
+        "category": "Ancillary services",
+        "value": 6.658
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.374
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.582
+      },
+      {
+        "category": "Long-term care",
+        "value": 7.783
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.901
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.178
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.901
+      }
+    ],
+    "Luxembourg": [
+      {
+        "category": "Ancillary services",
+        "value": 5.494
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.327
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 23.99
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.546
+      },
+      {
+        "category": "Medical goods",
+        "value": 5.281
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.042
+      },
+      {
+        "category": "Preventive care",
+        "value": 5.281
+      }
+    ],
+    "Mexico": [
+      {
+        "category": "Ancillary services",
+        "value": 2.532
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.633
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 30.871
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.067
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 31.059
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.067
+      }
+    ],
+    "Netherlands": [
+      {
+        "category": "Ancillary services",
+        "value": 1.791
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.867
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 18.106
+      },
+      {
+        "category": "Long-term care",
+        "value": 28.943
+      },
+      {
+        "category": "Medical goods",
+        "value": 4.601
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.344
+      },
+      {
+        "category": "Preventive care",
+        "value": 4.601
+      }
+    ],
+    "Norway": [
+      {
+        "category": "Ancillary services",
+        "value": 7.654
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.4
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 25.683
+      },
+      {
+        "category": "Long-term care",
+        "value": 29.575
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.679
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 20.948
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.679
+      }
+    ],
+    "Poland": [
+      {
+        "category": "Ancillary services",
+        "value": 3.91
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.121
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 32.685
+      },
+      {
+        "category": "Long-term care",
+        "value": 8.262
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.927
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.599
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.927
+      }
+    ],
+    "Portugal": [
+      {
+        "category": "Ancillary services",
+        "value": 7.412
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.06
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 18.8
+      },
+      {
+        "category": "Long-term care",
+        "value": 4.848
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.892
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 35.96
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.892
+      }
+    ],
+    "Slovak Republic": [
+      {
+        "category": "Ancillary services",
+        "value": 8.602
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.248
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 29.205
+      },
+      {
+        "category": "Long-term care",
+        "value": 0.427
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.03
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 24.44
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.03
+      }
+    ],
+    "Slovenia": [
+      {
+        "category": "Ancillary services",
+        "value": 3.138
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 4.152
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.314
+      },
+      {
+        "category": "Long-term care",
+        "value": 11.023
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.181
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.772
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.181
+      }
+    ],
+    "Spain": [
+      {
+        "category": "Ancillary services",
+        "value": 5.12
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 3.021
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 26.775
+      },
+      {
+        "category": "Long-term care",
+        "value": 9.026
+      },
+      {
+        "category": "Medical goods",
+        "value": 2.966
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 28.978
+      },
+      {
+        "category": "Preventive care",
+        "value": 2.966
+      }
+    ],
+    "Sweden": [
+      {
+        "category": "Ancillary services",
+        "value": 4.949
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 1.492
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 20.821
+      },
+      {
+        "category": "Long-term care",
+        "value": 26.299
+      },
+      {
+        "category": "Medical goods",
+        "value": 3.397
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.908
+      },
+      {
+        "category": "Preventive care",
+        "value": 3.397
+      }
+    ],
+    "Switzerland": [
+      {
+        "category": "Ancillary services",
+        "value": 6.039
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 6.262
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 21.829
+      },
+      {
+        "category": "Long-term care",
+        "value": 21.797
+      },
+      {
+        "category": "Medical goods",
+        "value": 1.744
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 25.27
+      },
+      {
+        "category": "Preventive care",
+        "value": 1.744
+      }
+    ],
+    "United Kingdom": [
+      {
+        "category": "Ancillary services",
+        "value": 2.006
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 2.011
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 24.021
+      },
+      {
+        "category": "Long-term care",
+        "value": 18.479
+      },
+      {
+        "category": "Medical goods",
+        "value": 6.371
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 26.115
+      },
+      {
+        "category": "Preventive care",
+        "value": 6.371
+      }
+    ],
+    "United States": [
+      {
+        "category": "Ancillary services",
+        "value": 0.0
+      },
+      {
+        "category": "Governance and health system and financing",
+        "value": 8.731
+      },
+      {
+        "category": "Inpatient curative and rehabilitative care",
+        "value": 0.0
+      },
+      {
+        "category": "Long-term care",
+        "value": 8.149
+      },
+      {
+        "category": "Medical goods",
+        "value": 6.22
+      },
+      {
+        "category": "Outpatient curative and rehabilitative care",
+        "value": 27.412
+      },
+      {
+        "category": "Preventive care",
+        "value": 6.22
+      }
+    ]
+  }
+}

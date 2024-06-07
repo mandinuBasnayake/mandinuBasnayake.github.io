@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Data Visualisation 1 - Nightingale Chart">
+    <meta name="keywords" content="HTML, CSS, JavaScript, D3js">
+    <meta name="author" content="Basnayake Mudalige Wethum Mandinu Basnayake, Ahmad Mukthar">
+    <title>Nightingale visualization</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap">
+    <link rel="stylesheet" href="vis_1.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <script src="vis_1.js"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">             <!-- Navigation Menu -->
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <img src="logo.jpg" alt="Health Insights Logo">
+                Health Insights
+            </a>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/Home/index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/vis_1/vis_1.html">OECD Health Spending Patterns</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/vis_2/vis_2.html">WHO Expenditure Schemes</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <h1 class="text-center mb-4">Health care spending in OECD countries by Health care type</h1>
+    <div class="container d-flex justify-content-center align-items-center position-relative flex-column">
+        <div id="legend" class="legend-box"></div>
+        <div id="chart-container" class="shadow-box">
+            <div id="chart"></div>
+        </div>
+        <div class="year-slider-container">                                             <!-- Radio slider buttons -->
+            <div id="year-slider">
+                <input type="radio" id="year-2015" name="year" value="2015" checked>
+                <label for="year-2015" data-year="2015"></label>
+                <input type="radio" id="year-2016" name="year" value="2016">
+                <label for="year-2016" data-year="2016"></label>
+                <input type="radio" id="year-2017" name="year" value="2017">
+                <label for="year-2017" data-year="2017"></label>
+                <input type="radio" id="year-2018" name="year" value="2018">
+                <label for="year-2018" data-year="2018"></label>
+                <input type="radio" id="year-2019" name="year" value="2019">
+                <label for="year-2019" data-year="2019"></label>
+                <input type="radio" id="year-2020" name="year" value="2020">
+                <label for="year-2020" data-year="2020"></label>
+                <div id="year-pos"></div>
+            </div>
+        </div>
+    </div>
+    <div id="current-country" class="text-center mt-3"></div>                               <!-- Play, pause, sort buttons -->
+    <div id="country-buttons" class="d-flex flex-wrap justify-content-center my-3"></div>
+    <div class="mt-2 text-center button-container">
+        <button id="play-btn">Play</button>
+        <button id="pause-btn">Pause</button>
+        <button id="sort-btn">Sort</button>
+    </div>
+    <footer>
+        <p>Designed by <span id="designed by">Ahmad and Mandinu | COS30045 Data Visualization 2024 ©</span></p>
+    </footer>
+</body>
+
+</html>

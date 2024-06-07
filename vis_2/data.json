@@ -1,0 +1,698 @@
+{
+  "2015": {
+      "Africa": {
+          "totals": {
+              "government": {
+                  "total": 12081.0,
+                  "categories": {
+                      "Government schemes": 9316.0,
+                      "Compulsory contributory health insurance schemes": 2765.0
+                  }
+              },
+              "voluntary": {
+                  "total": 8612.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 2411.0,
+                      "NPISH financing schemes": 4694.0,
+                      "Enterprise financing schemes": 1507.0
+                  }
+              }
+          }
+      },
+      "North America": {
+          "totals": {
+              "government": {
+                  "total": 9022.0,
+                  "categories": {
+                      "Government schemes": 5222.0,
+                      "Compulsory contributory health insurance schemes": 3800.0
+                  }
+              },
+              "voluntary": {
+                  "total": 2116.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 1443.0,
+                      "NPISH financing schemes": 639.0,
+                      "Enterprise financing schemes": 34.0
+                  }
+              }
+          }
+      },
+      "South America": {
+          "totals": {
+              "government": {
+                  "total": 3727.0,
+                  "categories": {
+                      "Government schemes": 3187.0,
+                      "Compulsory contributory health insurance schemes": 540.0
+                  }
+              },
+              "voluntary": {
+                  "total": 3574.0,
+                  "categories": {
+                      "NPISH financing schemes": 1309.0,
+                      "Enterprise financing schemes": 379.0,
+                      "Voluntary health insurance schemes": 1886.0
+                  }
+              }
+          }
+      },
+      "Asia": {
+          "totals": {
+              "government": {
+                  "total": 6304.0,
+                  "categories": {
+                      "Government schemes": 4208.0,
+                      "Compulsory contributory health insurance schemes": 2096.0
+                  }
+              },
+              "voluntary": {
+                  "total": 8937.0,
+                  "categories": {
+                      "NPISH financing schemes": 2117.0,
+                      "Voluntary health insurance schemes": 5045.0,
+                      "Enterprise financing schemes": 1775.0
+                  }
+              }
+          }
+      },
+      "Europe": {
+          "totals": {
+              "government": {
+                  "total": 8791.0,
+                  "categories": {
+                      "Government schemes": 6174.0,
+                      "Compulsory contributory health insurance schemes": 2617.0
+                  }
+              },
+              "voluntary": {
+                  "total": 10344.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 3546.0,
+                      "NPISH financing schemes": 2963.0,
+                      "Enterprise financing schemes": 3835.0
+                  }
+              }
+          }
+      },
+      "Oceania": {
+          "totals": {
+              "government": {
+                  "total": 556.0,
+                  "categories": {
+                      "Government schemes": 548.0,
+                      "Compulsory contributory health insurance schemes": 8.0
+                  }
+              },
+              "voluntary": {
+                  "total": 1400.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 853.0,
+                      "NPISH financing schemes": 547.0,
+                      "Enterprise financing schemes": 0.0
+                  }
+              }
+          }
+      }
+  },
+  "2016": {
+      "Africa": {
+          "totals": {
+              "government": {
+                  "total": 10845.0,
+                  "categories": {
+                      "Government schemes": 8181.0,
+                      "Compulsory contributory health insurance schemes": 2664.0
+                  }
+              },
+              "voluntary": {
+                  "total": 8513.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 2409.0,
+                      "NPISH financing schemes": 4727.0,
+                      "Enterprise financing schemes": 1377.0
+                  }
+              }
+          }
+      },
+      "North America": {
+          "totals": {
+              "government": {
+                  "total": 7198.0,
+                  "categories": {
+                      "Government schemes": 5344.0,
+                      "Compulsory contributory health insurance schemes": 1854.0
+                  }
+              },
+              "voluntary": {
+                  "total": 2232.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 1590.0,
+                      "NPISH financing schemes": 610.0,
+                      "Enterprise financing schemes": 32.0
+                  }
+              }
+          }
+      },
+      "South America": {
+          "totals": {
+              "government": {
+                  "total": 4546.0,
+                  "categories": {
+                      "Compulsory contributory health insurance schemes": 1520.0,
+                      "Government schemes": 3026.0
+                  }
+              },
+              "voluntary": {
+                  "total": 3360.0,
+                  "categories": {
+                      "NPISH financing schemes": 1153.0,
+                      "Enterprise financing schemes": 316.0,
+                      "Voluntary health insurance schemes": 1891.0
+                  }
+              }
+          }
+      },
+      "Asia": {
+          "totals": {
+              "government": {
+                  "total": 4440.0,
+                  "categories": {
+                      "Government schemes": 3983.0,
+                      "Compulsory contributory health insurance schemes": 457.0
+                  }
+              },
+              "voluntary": {
+                  "total": 9037.0,
+                  "categories": {
+                      "NPISH financing schemes": 3012.0,
+                      "Voluntary health insurance schemes": 4272.0,
+                      "Enterprise financing schemes": 1753.0
+                  }
+              }
+          }
+      },
+      "Europe": {
+          "totals": {
+              "government": {
+                  "total": 7921.0,
+                  "categories": {
+                      "Government schemes": 6268.0,
+                      "Compulsory contributory health insurance schemes": 1653.0
+                  }
+              },
+              "voluntary": {
+                  "total": 10725.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 3746.0,
+                      "NPISH financing schemes": 2986.0,
+                      "Enterprise financing schemes": 3993.0
+                  }
+              }
+          }
+      },
+      "Oceania": {
+          "totals": {
+              "government": {
+                  "total": 628.0,
+                  "categories": {
+                      "Government schemes": 619.0,
+                      "Compulsory contributory health insurance schemes": 9.0
+                  }
+              },
+              "voluntary": {
+                  "total": 1521.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 927.0,
+                      "NPISH financing schemes": 594.0,
+                      "Enterprise financing schemes": 0.0
+                  }
+              }
+          }
+      }
+  },
+  "2017": {
+      "Africa": {
+          "totals": {
+              "government": {
+                  "total": 11161.0,
+                  "categories": {
+                      "Government schemes": 8709.0,
+                      "Compulsory contributory health insurance schemes": 2452.0
+                  }
+              },
+              "voluntary": {
+                  "total": 10018.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 3179.0,
+                      "NPISH financing schemes": 5114.0,
+                      "Enterprise financing schemes": 1725.0
+                  }
+              }
+          }
+      },
+      "North America": {
+          "totals": {
+              "government": {
+                  "total": 7510.0,
+                  "categories": {
+                      "Government schemes": 5596.0,
+                      "Compulsory contributory health insurance schemes": 1914.0
+                  }
+              },
+              "voluntary": {
+                  "total": 2466.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 1739.0,
+                      "NPISH financing schemes": 677.0,
+                      "Enterprise financing schemes": 50.0
+                  }
+              }
+          }
+      },
+      "South America": {
+          "totals": {
+              "government": {
+                  "total": 3760.0,
+                  "categories": {
+                      "Government schemes": 3209.0,
+                      "Compulsory contributory health insurance schemes": 551.0
+                  }
+              },
+              "voluntary": {
+                  "total": 3658.0,
+                  "categories": {
+                      "NPISH financing schemes": 1303.0,
+                      "Enterprise financing schemes": 351.0,
+                      "Voluntary health insurance schemes": 2004.0
+                  }
+              }
+          }
+      },
+      "Asia": {
+          "totals": {
+              "government": {
+                  "total": 4707.0,
+                  "categories": {
+                      "Government schemes": 4229.0,
+                      "Compulsory contributory health insurance schemes": 478.0
+                  }
+              },
+              "voluntary": {
+                  "total": 7400.0,
+                  "categories": {
+                      "NPISH financing schemes": 2371.0,
+                      "Voluntary health insurance schemes": 2540.0,
+                      "Enterprise financing schemes": 2489.0
+                  }
+              }
+          }
+      },
+      "Europe": {
+          "totals": {
+              "government": {
+                  "total": 6923.0,
+                  "categories": {
+                      "Government schemes": 5175.0,
+                      "Compulsory contributory health insurance schemes": 1748.0
+                  }
+              },
+              "voluntary": {
+                  "total": 11315.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 3990.0,
+                      "NPISH financing schemes": 3179.0,
+                      "Enterprise financing schemes": 4146.0
+                  }
+              }
+          }
+      },
+      "Oceania": {
+          "totals": {
+              "government": {
+                  "total": 681.0,
+                  "categories": {
+                      "Government schemes": 672.0,
+                      "Compulsory contributory health insurance schemes": 9.0
+                  }
+              },
+              "voluntary": {
+                  "total": 1616.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 996.0,
+                      "NPISH financing schemes": 617.0,
+                      "Enterprise financing schemes": 3.0
+                  }
+              }
+          }
+      }
+  },
+  "2018": {
+      "Africa": {
+          "totals": {
+              "government": {
+                  "total": 11312.0,
+                  "categories": {
+                      "Government schemes": 8382.0,
+                      "Compulsory contributory health insurance schemes": 2930.0
+                  }
+              },
+              "voluntary": {
+                  "total": 10909.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 3382.0,
+                      "NPISH financing schemes": 6412.0,
+                      "Enterprise financing schemes": 1115.0
+                  }
+              }
+          }
+      },
+      "North America": {
+          "totals": {
+              "government": {
+                  "total": 7549.0,
+                  "categories": {
+                      "Government schemes": 5602.0,
+                      "Compulsory contributory health insurance schemes": 1947.0
+                  }
+              },
+              "voluntary": {
+                  "total": 2248.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 1717.0,
+                      "NPISH financing schemes": 496.0,
+                      "Enterprise financing schemes": 35.0
+                  }
+              }
+          }
+      },
+      "South America": {
+          "totals": {
+              "government": {
+                  "total": 2972.0,
+                  "categories": {
+                      "Government schemes": 2380.0,
+                      "Compulsory contributory health insurance schemes": 592.0
+                  }
+              },
+              "voluntary": {
+                  "total": 3656.0,
+                  "categories": {
+                      "NPISH financing schemes": 1195.0,
+                      "Enterprise financing schemes": 286.0,
+                      "Voluntary health insurance schemes": 2175.0
+                  }
+              }
+          }
+      },
+      "Asia": {
+          "totals": {
+              "government": {
+                  "total": 4808.0,
+                  "categories": {
+                      "Government schemes": 4235.0,
+                      "Compulsory contributory health insurance schemes": 573.0
+                  }
+              },
+              "voluntary": {
+                  "total": 8431.0,
+                  "categories": {
+                      "NPISH financing schemes": 2452.0,
+                      "Voluntary health insurance schemes": 3682.0,
+                      "Enterprise financing schemes": 2297.0
+                  }
+              }
+          }
+      },
+      "Europe": {
+          "totals": {
+              "government": {
+                  "total": 7685.0,
+                  "categories": {
+                      "Government schemes": 5761.0,
+                      "Compulsory contributory health insurance schemes": 1924.0
+                  }
+              },
+              "voluntary": {
+                  "total": 12379.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 4480.0,
+                      "NPISH financing schemes": 3560.0,
+                      "Enterprise financing schemes": 4339.0
+                  }
+              }
+          }
+      },
+      "Oceania": {
+          "totals": {
+              "government": {
+                  "total": 760.0,
+                  "categories": {
+                      "Government schemes": 749.0,
+                      "Compulsory contributory health insurance schemes": 11.0
+                  }
+              },
+              "voluntary": {
+                  "total": 657.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 31.0,
+                      "NPISH financing schemes": 622.0,
+                      "Enterprise financing schemes": 4.0
+                  }
+              }
+          }
+      }
+  },
+  "2019": {
+      "Africa": {
+          "totals": {
+              "government": {
+                  "total": 12546.0,
+                  "categories": {
+                      "Government schemes": 9232.0,
+                      "Compulsory contributory health insurance schemes": 3314.0
+                  }
+              },
+              "voluntary": {
+                  "total": 9210.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 2207.0,
+                      "NPISH financing schemes": 5893.0,
+                      "Enterprise financing schemes": 1110.0
+                  }
+              }
+          }
+      },
+      "North America": {
+          "totals": {
+              "government": {
+                  "total": 6905.0,
+                  "categories": {
+                      "Government schemes": 4852.0,
+                      "Compulsory contributory health insurance schemes": 2053.0
+                  }
+              },
+              "voluntary": {
+                  "total": 2361.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 1814.0,
+                      "NPISH financing schemes": 507.0,
+                      "Enterprise financing schemes": 40.0
+                  }
+              }
+          }
+      },
+      "South America": {
+          "totals": {
+              "government": {
+                  "total": 4916.0,
+                  "categories": {
+                      "Compulsory contributory health insurance schemes": 1692.0,
+                      "Government schemes": 3224.0
+                  }
+              },
+              "voluntary": {
+                  "total": 3441.0,
+                  "categories": {
+                      "NPISH financing schemes": 982.0,
+                      "Enterprise financing schemes": 246.0,
+                      "Voluntary health insurance schemes": 2213.0
+                  }
+              }
+          }
+      },
+      "Asia": {
+          "totals": {
+              "government": {
+                  "total": 4892.0,
+                  "categories": {
+                      "Government schemes": 4301.0,
+                      "Compulsory contributory health insurance schemes": 591.0
+                  }
+              },
+              "voluntary": {
+                  "total": 7620.0,
+                  "categories": {
+                      "NPISH financing schemes": 2602.0,
+                      "Voluntary health insurance schemes": 2802.0,
+                      "Enterprise financing schemes": 2216.0
+                  }
+              }
+          }
+      },
+      "Europe": {
+          "totals": {
+              "government": {
+                  "total": 8258.0,
+                  "categories": {
+                      "Government schemes": 5977.0,
+                      "Compulsory contributory health insurance schemes": 2281.0
+                  }
+              },
+              "voluntary": {
+                  "total": 12520.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 4655.0,
+                      "NPISH financing schemes": 3440.0,
+                      "Enterprise financing schemes": 4425.0
+                  }
+              }
+          }
+      },
+      "Oceania": {
+          "totals": {
+              "government": {
+                  "total": 807.0,
+                  "categories": {
+                      "Government schemes": 795.0,
+                      "Compulsory contributory health insurance schemes": 12.0
+                  }
+              },
+              "voluntary": {
+                  "total": 652.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 29.0,
+                      "NPISH financing schemes": 621.0,
+                      "Enterprise financing schemes": 2.0
+                  }
+              }
+          }
+      }
+  },
+  "2020": {
+      "Africa": {
+          "totals": {
+              "government": {
+                  "total": 10930.0,
+                  "categories": {
+                      "Government schemes": 8310.0,
+                      "Compulsory contributory health insurance schemes": 2620.0
+                  }
+              },
+              "voluntary": {
+                  "total": 9268.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 2879.0,
+                      "NPISH financing schemes": 5191.0,
+                      "Enterprise financing schemes": 1198.0
+                  }
+              }
+          }
+      },
+      "North America": {
+          "totals": {
+              "government": {
+                  "total": 6411.0,
+                  "categories": {
+                      "Government schemes": 4369.0,
+                      "Compulsory contributory health insurance schemes": 2042.0
+                  }
+              },
+              "voluntary": {
+                  "total": 2251.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 1791.0,
+                      "NPISH financing schemes": 424.0,
+                      "Enterprise financing schemes": 36.0
+                  }
+              }
+          }
+      },
+      "South America": {
+          "totals": {
+              "government": {
+                  "total": 4460.0,
+                  "categories": {
+                      "Compulsory contributory health insurance schemes": 1431.0,
+                      "Government schemes": 3029.0
+                  }
+              },
+              "voluntary": {
+                  "total": 3302.0,
+                  "categories": {
+                      "NPISH financing schemes": 885.0,
+                      "Enterprise financing schemes": 219.0,
+                      "Voluntary health insurance schemes": 2198.0
+                  }
+              }
+          }
+      },
+      "Asia": {
+          "totals": {
+              "government": {
+                  "total": 4922.0,
+                  "categories": {
+                      "Government schemes": 3512.0,
+                      "Compulsory contributory health insurance schemes": 1410.0
+                  }
+              },
+              "voluntary": {
+                  "total": 8571.0,
+                  "categories": {
+                      "NPISH financing schemes": 3384.0,
+                      "Voluntary health insurance schemes": 2976.0,
+                      "Enterprise financing schemes": 2211.0
+                  }
+              }
+          }
+      },
+      "Europe": {
+          "totals": {
+              "government": {
+                  "total": 8213.0,
+                  "categories": {
+                      "Government schemes": 5229.0,
+                      "Compulsory contributory health insurance schemes": 2984.0
+                  }
+              },
+              "voluntary": {
+                  "total": 11829.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 4665.0,
+                      "NPISH financing schemes": 4099.0,
+                      "Enterprise financing schemes": 3065.0
+                  }
+              }
+          }
+      },
+      "Oceania": {
+          "totals": {
+              "government": {
+                  "total": 741.0,
+                  "categories": {
+                      "Government schemes": 733.0,
+                      "Compulsory contributory health insurance schemes": 8.0
+                  }
+              },
+              "voluntary": {
+                  "total": 688.0,
+                  "categories": {
+                      "Voluntary health insurance schemes": 26.0,
+                      "NPISH financing schemes": 660.0,
+                      "Enterprise financing schemes": 2.0
+                  }
+              }
+          }
+      }
+  }
+}
